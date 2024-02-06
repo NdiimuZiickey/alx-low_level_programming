@@ -1,7 +1,7 @@
 /*
  * File: 106-linear_skip.c
- * Auth: NdiimuZiickey*
- * /
+ * Auth: NdiimuZiickey
+ */
 
 #include "search_algos.h"
 
